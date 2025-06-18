@@ -1,5 +1,11 @@
 # AngularTodoList
 
+
+## Goal
+I am getting tired of React.js and its hooks. As a former Ember.js, I am used to framework dealing on their own with basic data handling and reactions to events. So I gave a try to Angular, and I like it. It's easier than I thought. I also try to apply hexagonal architecture to the code.
+To keep it simple, I made a todo list app. There is nothing interesting you can do with it though yet, except create a pre-filled task, delete it and manage them in a temporary client state.
+I've installed Prime Angular for the components. And angular unirversal for SSR, but the app build does not work (there is a conflict with an angular animation package).
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.2.
 
 ## Development server
